@@ -1,0 +1,1 @@
+Hello, this contains all the data obtained for my Dear Data 100 project. For this project, I collected data on the ads I saw on my commute, seoerating them into categories. Attached will also be a Processing sketch depicting this.
