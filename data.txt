@@ -10,4 +10,119 @@ Tech Ad x1
 Education Ad x1
 Transport Ad x2
 
-   
+Oct. 17, 2026
+Pharma Ad x3
+Tech Ad x2
+Education Ad x1
+Transport Ad x4
+Film Ad x2
+Game Ad x1
+
+Oct. 18, 2026
+Pharma Ad x5
+Tech Ad x1
+Education Ad x2
+Transport Ad x1
+Film Ad x3
+Game Ad x2
+Stageplay Ad x1
+
+Oct. 19, 2026
+Pharma Ad x2
+Tech Ad x3
+Transport Ad x2
+Film Ad x1
+Game Ad x4
+Stageplay Ad x2
+
+Oct. 20, 2026
+Pharma Ad x3
+Tech Ad x2
+Education Ad x3
+Transport Ad x3
+Game Ad x1
+Stageplay Ad x1
+
+Oct. 21, 2026
+Pharma Ad x1
+Tech Ad x4
+Education Ad x1
+Transport Ad x2
+Film Ad x2
+Game Ad x2
+Stageplay Ad x3
+
+Oct. 22, 2026
+Pharma Ad x4
+Education Ad x2
+Transport Ad x5
+Film Ad x1
+Stageplay Ad x1
+
+Oct. 23, 2026
+Pharma Ad x2
+Tech Ad x2
+Education Ad x1
+Transport Ad x1
+Film Ad x3
+Game Ad x3
+
+Oct. 24, 2026
+Pharma Ad x6
+Tech Ad x1
+Transport Ad x2
+Film Ad x2
+Game Ad x1
+Stageplay Ad x2
+
+Oct. 25, 2026
+Pharma Ad x3
+Tech Ad x3
+Education Ad x2
+Transport Ad x3
+Film Ad x1
+Game Ad x2
+Stageplay Ad x1
+
+Oct. 26, 2026
+Pharma Ad x2
+Tech Ad x2
+Education Ad x1
+Transport Ad x2
+Film Ad x4
+Game Ad x1
+Stageplay Ad x2
+
+Oct. 27, 2026
+Pharma Ad x4
+Tech Ad x1
+Education Ad x3
+Transport Ad x2
+Film Ad x2
+Stageplay Ad x1
+
+Oct. 28, 2026
+Pharma Ad x1
+Tech Ad x2
+Education Ad x2
+Transport Ad x4
+Film Ad x3
+Game Ad x2
+
+Oct. 29, 2026
+Pharma Ad x3
+Tech Ad x5
+Education Ad x1
+Transport Ad x1
+Film Ad x1
+Game Ad x3
+Stageplay Ad x2
+
+Oct. 30, 2026
+Pharma Ad x2
+Tech Ad x2
+Education Ad x2
+Transport Ad x3
+Film Ad x2
+Game Ad x1
+Stageplay Ad x1   
