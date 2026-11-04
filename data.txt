@@ -130,3 +130,25 @@ Stageplay Ad x1
 Oct. 31, 2026
 Pharma Ad x2
 Film Ad x5
+
+Nov. 1, 2026
+Pharma Ad x2
+Education Ad x2
+Film Ad x5
+ 
+
+Nov. 2, 2026
+Pharma Ad x4
+Tech Ad x2
+Education Ad x3
+Transport Ad x3
+Film Ad x2
+Stageplay Ad x2 
+
+Nov. 3, 2026
+Pharma Ad x5
+Tech Ad x2
+Education Ad x1
+Transport Ad x4
+Film Ad x7
+Stageplay Ad x3 
